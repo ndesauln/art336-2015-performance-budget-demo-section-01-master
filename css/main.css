@@ -360,6 +360,9 @@ body {
   max-width: 600px;
   width: 100%; }
 
+img {
+  max-width: 100%; }
+
 /* Layout.scss */
 /* Module.scss */
 /* State.scss */
